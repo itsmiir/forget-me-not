@@ -1,9 +1,6 @@
-# Fabric Example Mod
+# forget me not
 
-## Setup
+this is a tiny lil mod that adds forget-me-not flowers to swamp biomes. you can bonemeal them like the vanilla tall flowers, or you can craft them into light blue dye.
+i made this mod for my girlfriend (their favorite flower is forget-me-not)
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+https://modrinth.com/mod/forget-me-not
